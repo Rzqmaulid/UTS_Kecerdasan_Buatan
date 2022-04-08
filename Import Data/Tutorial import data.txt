@@ -1,0 +1,24 @@
+Tutorial import data file ke Google Collab
+
+Chapter 2
+- copy utilities.py di chapter 2, run
+- copy logistic_regression.py, run
+
+Chapter 3
+- import utilities.py
+- import data_decision_trees.txt
+- copy decision_trees.py, run
+
+Chapter 4
+-import data_clustering.txt
+-copy mean_shift.py, run
+
+Chapter 5
+-import data.txt
+-copy nearest_neighbor_classifier.py, run
+
+Chapter 6
+- ketik ' !pip install logic' tunggu sampe done
+- import adjacent_states
+- import coastal_states
+- copy states.py, run
